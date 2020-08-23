@@ -1,5 +1,4 @@
 # Melbourne-Seats-And-Population
-An interactive visualisation on the Melbourne seats and population from the year 2013 to 2016.
 
 When running a business, one of the most common dilemma business owners run into is deciding on the number of seats. Seating gives people a stopping point, whether it be for lunch, for a rest, a place to wait and meet others or simply a place to sit and take in the scenery. Therefore, my visualisation is focused on analysing and understanding the trend in number of seats in Melbourne and how population plays a greater role in determining the proportion of seats.  
 
